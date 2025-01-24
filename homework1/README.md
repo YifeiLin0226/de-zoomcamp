@@ -9,9 +9,11 @@ pip -V
     
 ![](figures/q1.png)
 
-Q2.  Both actually work
-    ![](figures/q2a.png)
-    ![](figures/q2b.png)
+Q2.  
+Both actually work
+ 
+![](figures/q2a.png)
+![](figures/q2b.png)
 
 Q3. 104,802; 198,924; 109,603; 27,678; 35,189
 
